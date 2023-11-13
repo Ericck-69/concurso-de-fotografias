@@ -1,0 +1,28 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f9fa; /* Gris claro */
+        margin: 0;
+        padding: 0;
+    }
+
+    h1.titulo {
+        color: #007bff; /* Azul brillante */
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #ffffff; /* Blanco */
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-top: 20px;
+    }
+
+
+
+
+
